@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jonathan Aussant</h1>
-<h3 align="center">A student developer from France</h3>
+# Hi there, I'm Jonathan 👋
 
-- 📫 How to reach me **jonathan.aussant@orange.fr**
+**Master’s student in Cloud & Network Infrastructures (EIT Digital / KTH) seeking a 5 to 6-month Master’s Thesis Project (starting Jan/Feb 2027) in DevOps, Cloud Engineering, or HPC.**
 
-<h3 align="left">Connect with me : </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jonathan-aussant-93a1bb250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan aussant" height="30" width="40" /></a>
-</p>
-<h3 align="left">Preferred languages : </h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I specialize in distributed systems, network architecture, and parallel programming. Currently completing my final year at KTH Royal Institute of Technology in Stockholm.
+
+### 🛠️ Tech Stack & Focus
+* **Programming:** C, C++, Python, Java
+* **High-Performance Computing:** CUDA, OpenMP, MPI
+* **Cloud & DevOps:** AWS, Docker, Git
+
+### 📫 Let's Connect
+* **LinkedIn:** ([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/jonathan-aussant/))
+* **Email:** [jonathan.aussant@korange.fr](mailto:jonathan.aussant@orange.fr)
