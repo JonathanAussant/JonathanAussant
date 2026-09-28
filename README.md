@@ -11,4 +11,4 @@ I specialize in distributed systems, network architecture, and parallel programm
 
 ### 📫 Let's Connect
 * **LinkedIn:** ([https://linkedin.com/in/jonathan-aussant](https://www.linkedin.com/in/jonathan-aussant/))
-* **Email:** [jonathan.aussant@korange.fr](mailto:jonathan.aussant@orange.fr)
+* **Email:** [jonathan.aussant@orange.fr](mailto:jonathan.aussant@orange.fr)
